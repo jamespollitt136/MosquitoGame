@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#3498db</color>
+
+    <!-- My added colours -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#e74e36</color>
+    <color name="green">#16a085</color>
+    <color name="purple">#9b59b6</color>
+    <color name="orange">#e67e22</color>
+    <color name="grey">#bdc3c7</color>
+    <color name="lightBlue">#3498db</color>
+    <color name="gold">#d9a441</color>
+    <color name="silver">#a8a8a8</color>
+    <color name="bronze">#965a38</color>
+
+    <!-- Colours related to the game icons -->
+    <color name="mosquitoGreen">#4B9563</color>
+</resources>

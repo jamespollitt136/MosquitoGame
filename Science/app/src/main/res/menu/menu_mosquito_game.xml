@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/game_menu_home"
+        android:id="@+id/action_home"
+        android:icon="@mipmap/ic_menu_home" />
+    <item android:title="@string/game_menu_play"
+        android:id="@+id/menu_play" />
+    <item android:title="@string/game_menu_stop"
+        android:id="@+id/menu_stop" />
+</menu>

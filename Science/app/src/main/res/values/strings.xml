@@ -1,0 +1,108 @@
+<resources>
+    <!-- Strings related to Application -->
+    <string name="app_name">Science</string>
+
+    <!-- Strings related to MainActivity & activity_main.xml -->
+    <string name="nameTextView">Name:</string>
+    <string name="usernameTextView">Username:</string>
+    <string name="startButtonText">Start</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings related to HomeActivity & content_home.xml -->
+    <string name="mosquitoGame">Mosquito</string>
+    <string name="beeGame">Bee</string>
+
+    <!-- Navigation Drawer Strings -->
+    <string name="account_description">Account image</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="menu_scores">Scores</string>
+    <string name="menu_communicate">Communication</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="title_activity_about">About</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to AboutActivity & content_about.xml -->
+    <string name="about_android">Developed for Android</string>
+    <string name="about_android_description">Android logo</string>
+    <string name="about_app_version_num">App Version: 1.0.4</string>
+    <string name="about_androidstudio">Developed using Android Studio 2.2.2</string>
+    <string name="about_androidstudio_description">Android Studio logo</string>
+    <string name="about_student">Developed by James Pollitt for BSc Computer Science - Mobile Development at the University of Salford</string>
+    <string name="about_student_description">University of Salford logo</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_feedback">Feedback</string>
+
+    <!-- Strings related to SettingsActivity & content_settings.xml -->
+    <string name="settings_help">How it works</string>
+    <string name="settings_mosquito">Mosquito Game</string>
+    <string name="settings_mosquito_instructions">The rising temperatures are drawing in Mosquitoes.
+    It\'s your job to stop these mosquitoes from spreading diseases.
+    You must answer some questions correctly, in order to be deployed.
+    Once deployed swat the mosquitoes away by tapping on them before the timer runs out.</string>
+
+    <!-- Strings related to FeedbackActivity & content_feedback.xml-->
+    <string name="feedback_info">Please fill in all fields</string>
+    <string name="feedback_games_rating">What do you rate the games you played?</string>
+    <string name="feedback_app_rating">How do you rate the app in general?</string>
+    <string name="feedback_thanks">Thank you for your feedback</string>
+    <string name="feedback_submit">Submit</string>
+
+    <!-- Strings related to MosquitoQuizActivity & activity_mosquito_start.xml -->
+    <string name="quiz_home_button">Home</string>
+    <string name="quiz_continue_button">Continue</string>
+
+    <!-- Strings related to MosquitoQuestionActivity & activity_mosquito_questions.xml -->
+    <string name="quiz_question_one">Question One:</string>
+    <string name="quiz_first_question">How many people are infected by mosquito borne illnesses
+    each year? (closest number)</string>
+    <string name="quiz_first_700m">700 million</string>
+    <string name="quiz_first_200m">200 million</string>
+    <string name="quiz_first_450m">450 million</string>
+    <string name="quiz_first_800k">800,000</string>
+
+    <!-- Strings related to MosquitoSecondQuestionActivity & activity_mosquito_second_questions.xml -->
+    <string name="quiz_question_two">Question Two:</string>
+    <string name="quiz_second_question">The Zika virus is primarily spread by the female Aedes
+        aegypti mosquito. How can the Zika virus be transmitted? (check all that are true)</string>
+    <string name="quiz_second_blood">Blood transfusion</string>
+    <string name="quiz_second_sex">Sexual</string>
+    <string name="quiz_second_pregnancy">Pregnancy</string>
+    <string name="quiz_second_none">None of the above</string>
+    <string name="title_activity_mosquito_game">MosquitoGameActivity</string>
+
+    <!-- Strings related to MosquitoThirdQuestionActivity & activity_mosquito_third_questions.xml -->
+    <string name="quiz_question_three">Question Three:</string>
+    <string name="quiz_third_question">Which of the following images is the result of being infected
+        by a mosquito carrying the dengue virus?</string>
+    <string name="quiz_third_button">Continue</string>
+
+    <!-- Strings related to MosquitoFourthQuestionActivity & activity_mosquito_fourth_questions.xml -->
+    <string name="quiz_question_fourth">Question Four:</string>
+    <string name="quiz_fourth_question">How much blood can a mosquito drink in terms of its weight?</string>
+    <string name="quiz_four_answer_one">A. No more than it\'s body weight</string>
+    <string name="quiz_four_answer_three">B. 3 times it\'s body weight</string>
+    <string name="quiz_four_answer_five">C. 5 times it\'s body weight</string>
+    <string name="quiz_four_answer_six">D. 6 times it\'s body weight</string>
+    <string name="quiz_four_answer_here">Answer below (type answer):</string>
+    <string name="quiz_fourth_button">Continue</string>
+
+    <!-- Strings related to MosquitoGameActivity & content_mosquito_game.xml -->
+    <string name="game_finish_button">Finish</string>
+
+    <!-- Mosquito Game Menu strings -->
+    <string name="game_menu_home">Home</string>
+    <string name="game_menu_play">Play</string>
+    <string name="game_menu_stop">Stop</string>
+
+    <!-- Strings related to ScoreboardActivity & activity_scores.xml -->
+    <string name="title_activity_scoreboard">Scoreboard</string>
+    <string name="scores_button_text">I want to beat them!</string>
+</resources>
